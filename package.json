@@ -1,0 +1,22 @@
+{
+  "name": "cordova-motion-plugin",
+  "version": "1.0.0",
+  "description": "Cordova plugin to detect when a user is driving or walking that supports both iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep113/cordova-motion-plugin.git"
+  },
+  "keywords": [
+    "dyd"
+  ],
+  "author": "Deepak Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep113/cordova-motion-plugin/issues"
+  },
+  "homepage": "https://github.com/deep113/cordova-motion-plugin#readme"
+}
